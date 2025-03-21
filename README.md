@@ -1,4 +1,6 @@
-# My Commitment So Far is:
+# Professional Statement 
+
+My Commitment So Far is:
 
 Writing
 Data Anylyst
