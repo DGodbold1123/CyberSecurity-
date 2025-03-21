@@ -2,9 +2,9 @@
 
 My Commitment So Far is:
 
-Writing
-Data Anylyst
-Web Development 
+1. Writing
+2. Data Anylyst
+3. Web Development 
 
 
 I value:
